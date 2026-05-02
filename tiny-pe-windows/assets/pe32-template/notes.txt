@@ -1,0 +1,5 @@
+PE32 i386 baseline:
+- COFF machine 0x14c
+- optional header magic 0x10b
+- 32-bit ImageBase and BaseOfData
+- smaller pointers and stack-oriented calling conventions can help tiny imports

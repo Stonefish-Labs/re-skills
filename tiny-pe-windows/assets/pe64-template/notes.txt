@@ -1,0 +1,5 @@
+PE32+ x86_64 TinyPE final fixture:
+- 268-byte Windows 10 x64 GUI PE
+- imports MessageBoxW by name from USER32.dll
+- overlaps DOS header, PE header, imports, strings, and code
+- based on TinyPE-on-Win10 step9

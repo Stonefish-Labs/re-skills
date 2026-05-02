@@ -1,0 +1,5 @@
+Build the smallest Linux x86_64 ELF that exits with status 0.
+Make a tiny 32-bit Linux ELF that writes hi to stdout without libc.
+Explain why a signed static macOS arm64 Mach-O can verify but still get killed.
+Create a PE32 i386 baseline and explain how to shrink it.
+Compare tool-readable and loader-accepted tiny executable claims.
