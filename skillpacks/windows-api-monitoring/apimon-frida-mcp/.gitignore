@@ -1,0 +1,10 @@
+.venv/
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Users can decide whether to commit their local API Monitor XML corpus.
+# The server works when the XML files are dropped into api-monitor-xml/.

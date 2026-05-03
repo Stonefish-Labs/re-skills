@@ -12,6 +12,9 @@ flat pile of unrelated capabilities.
 - [`skillpacks/minimal-executables`](skillpacks/minimal-executables/): build,
   shrink, and verify tiny executable files across Linux ELF, macOS Mach-O, and
   Windows PE.
+- [`skillpacks/windows-api-monitoring`](skillpacks/windows-api-monitoring/):
+  trace Windows API calls with Frida through MCP and decode them with API
+  Monitor XML definitions.
 
 Future packs can live beside it, for example:
 
